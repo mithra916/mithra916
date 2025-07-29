@@ -1,4 +1,4 @@
-# Hi, I'm Loga Mithra Rajesh!!
+# Hi, I'm Loga Mithra !!
 
 🎓 B.E. Computer Science |  Cybersecurity Enthusiast  
 🔍 Passionate about Ethical Hacking | Bug Bounty | Malware Analysis  
