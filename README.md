@@ -22,7 +22,7 @@ Currently learning blue team and purple team practices through courses, labs, an
 ##  My Journey
 Every day is a learning step — I’m building my skills through labs, projects, and guided practice to grow into a skilled cybersecurity professional.
 
-## 📫 Connect with Me
+##  Connect with Me
 - GitHub: [LinkedIn](https://www.linkedin.com/in/logamithra916) 
 - Email: [Email](mailto:logamithra09@gmail.com)  
 
