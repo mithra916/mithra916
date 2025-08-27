@@ -10,10 +10,11 @@ Currently learning blue team and purple team practices through courses, labs, an
 - Networking 
 
 ##  Featured Project
-**VISHWAS** — a learning project focused on secure and transparent claim & grievance management:  
-- Blockchain for tamper-proof records (concept learning)  
-- AI for fraud detection and faster processing (under study)  
-- Automation and feedback for better accountability
+**CIPHEREYE** — a learning project focusing on detecting malicious activities in encrypted traffic without decryption: 
+
+- Using metadata features like packet size, inter-arrival times, flow duration, and TLS handshake.
+- Applying Machine Learning models (Scikit-learn) for classification.
+- Leveraging Wireshark for traffic capture and dataset preparation.
 
 ##  Skills in Progress
 - Topics: Ethical Hacking, Digital Forensics, Incident Response, Network Security  
