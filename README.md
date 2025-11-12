@@ -29,4 +29,4 @@ Every day is a learning step — I’m building my skills through labs, projects
 
 Always open to collaborating on beginner-friendly cybersecurity projects and learning together!
 
-[!Tryhackme Badege](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4456716)
+[!Tryhackme Badege](https://tryhackme-badges.s3.amazonaws.com/mithra916.png)
