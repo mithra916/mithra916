@@ -28,3 +28,5 @@ Every day is a learning step — I’m building my skills through labs, projects
 - Email: [Email](mailto:logamithra09@gmail.com)  
 
 Always open to collaborating on beginner-friendly cybersecurity projects and learning together!
+
+[!Tryhackme Badege]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4456716" style='border:none;'></iframe>
