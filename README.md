@@ -31,6 +31,7 @@ Currently learning red team and blue team practices through courses, labs, and h
 Every day is a learning step — I’m actively learning and building my skills through labs, projects, and guided practice to grow into a skilled cybersecurity professional.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/mithra916.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4456716" style='border:none;' alt="TryHackMe Badge" />
 
 ##  Connect with Me
 - GitHub: [LinkedIn](https://www.linkedin.com/in/logamithra916) 
