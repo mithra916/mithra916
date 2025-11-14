@@ -32,6 +32,9 @@ Every day is a learning step — I’m actively learning and building my skills 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/mithra916.png" alt="TryHackMe Badge" />
 
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4456716)](https://tryhackme.com/p/4456716)
+
+
 ##  Connect with Me
 - GitHub: [LinkedIn](https://www.linkedin.com/in/logamithra916) 
 - Email: [Email](mailto:logamithra09@gmail.com)  
