@@ -45,3 +45,4 @@ Always open to collaborating on beginner-friendly cybersecurity projects and lea
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](logamithra09@gmail.com)
 
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
