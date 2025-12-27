@@ -41,5 +41,6 @@ Every day is a learning step — I’m actively learning and building my skills 
 
 Always open to collaborating on beginner-friendly cybersecurity projects and learning together!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logamithra916/)
 
 
