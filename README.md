@@ -27,7 +27,7 @@ Currently under active development with ongoing improvements.
 - Security-first mindset
 - Continuous refactoring & enhancement
 
-Repo: https://github.com/YOUR_USERNAME/cipher-eye
+Repo: [CIpherEye](https://github.com/PadmavathiMuthukumar/ciphereye)
 
 ---
 
