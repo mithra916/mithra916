@@ -1,44 +1,73 @@
-# Hi, I'm Loga Mithra !! 
+<h1 align="center">Hi 👋, I'm Loga Mithra</h1>
+<h3 align="center">Cybersecurity Enthusiast | DFIR Learner | Backend Developer</h3>
 
-I'm a **Cybersecurity Student** exploring the world of ethical hacking, digital forensics, and incident response.  
-Currently learning red team and blue team practices through courses, labs, and hands-on challenges.
+---
 
-##  What I'm Learning
-- Networking
-- Bash Scripting
-- Ethical hacking fundamentals  
-- Digital Forensics & Incident Response (DFIR) basics  
-- Blue team and purple team defense strategies  
+## About Me
+- Cybersecurity enthusiast exploring **Ethical Hacking & DFIR**
+- Backend-focused learner with Python frameworks
+- Currently building and improving **Cipher Eye**
 
-##  Featured Project
-**CIPHEREYE** — a learning project focusing on detecting malicious activities in encrypted traffic without decryption: 
+---
 
-- Using metadata features like packet size, inter-arrival times, flow duration, and TLS handshake.
-- Applying Machine Learning models (Scikit-learn) for classification.
-- Leveraging Wireshark for traffic capture and dataset preparation.
+## Currently Learning
+- Ethical hacking fundamentals
+- DFIR concepts & workflows
+- FastAPI & secure REST APIs
+- Bash scripting 
 
-**IAMpact** — a learning project focusing on detecting risky IAM behaviors and anomalous access patterns using AI-driven analytics:
+---
 
-- Using enriched IAM log features like user activity, login frequency, source IP reputation, and access anomalies.
-- Applying Machine Learning models (Random Forest, Scikit-learn) for alert scoring and risk classification.
-- Leveraging Flask backend and interactive dashboards (Chart.js) for real-time visualization and insights.
+## Featured Project
+### Cipher Eye
+A cybersecurity-focused project aimed at improving security visibility and analysis.  
+Currently under active development with ongoing improvements.
 
-##  Skills in Progress
-- Topics: Ethical Hacking, Digital Forensics, Incident Response, Network Security  
-- Tools I'm learning: Burp Suite, Nmap, Wireshark, Metasploit, Autopsy, Splunk, Linux, Git
+- Backend-oriented design
+- Security-first mindset
+- Continuous refactoring & enhancement
 
-##  My Journey
-Every day is a learning step — I’m actively learning and building my skills through labs, projects, and guided practice to grow into a skilled cybersecurity professional.
+Repo: https://github.com/YOUR_USERNAME/cipher-eye
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mithra916.png?refresh=2)
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+</p>
 
 
+---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithra916&show_icons=true&theme=default" />
+</p>
 
-##  Connect with Me
-- GitHub: [LinkedIn](https://www.linkedin.com/in/logamithra916) 
-- Email: [Email](mailto:logamithra09@gmail.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithra916&layout=compact" />
+</p>
 
-Always open to collaborating on beginner-friendly cybersecurity projects and learning together!
+---
 
+## Connect With Me
+<p>
+  <a href="https://github.com/mithra916"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/logamithra916"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+</p>
 
+---
+
+> *Focused on learning, building, and improving one step at a time.*
