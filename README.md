@@ -41,15 +41,4 @@ Every day is a learning step — I’m actively learning and building my skills 
 
 Always open to collaborating on beginner-friendly cybersecurity projects and learning together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logamithra916/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](logamithra09@gmail.com)
-<p align="left">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/ios-filled/50/django.png" alt="Django"/>
-  <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask"/>
-</p>
 
