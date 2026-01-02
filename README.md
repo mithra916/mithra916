@@ -48,24 +48,13 @@ Repo: https://github.com/YOUR_USERNAME/cipher-eye
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </p>
 
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithra916&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithra916&layout=compact" />
-</p>
-
 ---
 
 ## Connect With Me
 <p>
   <a href="https://github.com/mithra916"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/logamithra916"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="logamithra09@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
