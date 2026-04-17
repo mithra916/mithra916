@@ -1,62 +1,27 @@
-<h1 align="center">Hi 👋, I'm Loga Mithra</h1>
-<h3 align="center">Cybersecurity Enthusiast | DFIR Learner | Backend Developer</h3>
+# Hi there, I'm [Your Name] 👋
 
----
-
-## About Me
-- Cybersecurity enthusiast exploring **Ethical Hacking & DFIR**
-- Backend-focused learner with Python frameworks
-- Currently building and improving **Cipher Eye**
-
----
-
-## Currently Learning
-- Ethical hacking fundamentals
-- DFIR concepts & workflows
-- FastAPI & secure REST APIs
-- Bash scripting 
-
----
-
-## Featured Project
-### Cipher Eye
-A cybersecurity-focused project aimed at improving security visibility and analysis.  
-Currently under active development with ongoing improvements.
-
-- Backend-oriented design
-- Security-first mindset
-- Continuous refactoring & enhancement
-
-Repo: [CIpherEye](https://github.com/PadmavathiMuthukumar/ciphereye)
-
----
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Learning+Every+Day" alt="Typing SVG" />
+  </a>
 </p>
 
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
----
-
-## Connect With Me
-<p>
-  <a href="https://github.com/mithra916"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/logamithra916"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="mail to : logamithra09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/></a>
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-> *Focused on learning, building, and improving one step at a time.*
