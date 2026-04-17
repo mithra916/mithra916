@@ -42,10 +42,14 @@
 ---
 
 ## Technical Skills
-
-### Languages & Tools
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,flask,fastapi,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,linux,bash,git,github,vscode" />
 </p>
 
 ### Concepts
