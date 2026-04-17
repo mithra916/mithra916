@@ -30,11 +30,15 @@
 </p>
 
 ## About Me
-```
-Python based Backend Developer with a focus on cybersecurity and secure system design.
-Currently learning DSA in Python and exploring network security tools like Nmap, Wireshark
-and OWASP concepts.
-```
+* Python Backend Developer focused on building scalable systems
+* Passionate about Cybersecurity and secure application design
+* Experienced in developing REST APIs with FastAPI, Flask, and Django
+* Currently strengthening problem-solving with DSA in Python
+* Currently exploring and gaining the hands-on practice with OWASP-based web security and vulnerability analysis
+* Learning network analysis using Nmap and Wireshark
+* Building IAMpact (AI-based alert prioritization) and an API Security Scanner
+* Exploring open-source and preparing for contributions
+
 ## Technical Skills
 
 ### Languages & Tools
@@ -49,8 +53,18 @@ and OWASP concepts.
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## Connect with Me
+
+<p>
+  <a href="[https://www.linkedin.com/in/logamithra916](https://www.linkedin.com/in/logamithra916/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:logamithra09@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="[https://unstop.com/@logamit4497li](https://unstop.com/u/logamit4497)">
+    <img src="https://img.shields.io/badge/Unstop-100000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
