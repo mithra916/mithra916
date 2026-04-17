@@ -75,13 +75,6 @@
 
 ---
 
-## ⚡
-
 <p align="center">
-  <img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="400"/>
+  <img src="hacker.mp4" width="400">
 </p>
-
-<p align="center">
-🛡️ "Building secure systems, one step at a time."
-</p>
-
