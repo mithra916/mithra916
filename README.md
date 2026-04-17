@@ -54,7 +54,7 @@ Repo: [CIpherEye](https://github.com/PadmavathiMuthukumar/ciphereye)
 <p>
   <a href="https://github.com/mithra916"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/logamithra916"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="logamithra09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/></a>
+  <a href="mail to : logamithra09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
