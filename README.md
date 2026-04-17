@@ -25,14 +25,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=EMERGING+SECURITY+ANALYST;BACKEND+DEVELOPER;OPEN+SOURCE+ENTHUSIAST" alt="Cyber Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=EMERGING+SECURITY+ANALYST;BACKEND+DEVELOPER;CTF+PLAYER;OPEN+SOURCE+ENTHUSIAST" alt="Cyber Typing SVG" />
   </a>
 </p>
 
+## About Me
+```
+Python based Backend Developer with a focus on cybersecurity and secure system design.
+Currently learning DSA in Python and exploring network security tools like Nmap, Wireshark
+and OWASP concepts.
+```
 ## Tech Stack
 
 ### Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
@@ -46,11 +52,6 @@
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </p>
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
 ### 📫 Connect with me:
 <p align="left">
