@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loga Mithra</h1>
 
+![Security](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
