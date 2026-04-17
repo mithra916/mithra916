@@ -39,13 +39,13 @@ and OWASP concepts.
 ```
 ## Technical Skills
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,flask,fastapi,linux,bash,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,flask,fastapi,linux,bash,git" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
