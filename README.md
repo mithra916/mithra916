@@ -56,7 +56,7 @@
 ## Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/logamithra916](https://www.linkedin.com/in/logamithra916/)">
+  <a href="https://www.linkedin.com/in/logamithra916/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
@@ -64,7 +64,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="[https://unstop.com/@logamit4497li](https://unstop.com/u/logamit4497)">
+  <a href="https://unstop.com/u/logamit4497">
     <img src="https://img.shields.io/badge/Unstop-100000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
