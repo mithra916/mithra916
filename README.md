@@ -39,31 +39,17 @@ and OWASP concepts.
 ```
 ## Technical Skills
 
-### Languages
+## 🛠️ Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,flask,fastapi,linux,bash,git" />
 </p>
 
-### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastAPI,RESTAPI" />
-</p>
-
-### Systems & Security
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Core Concepts
-![OOP](https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 📫 Connect with me:
