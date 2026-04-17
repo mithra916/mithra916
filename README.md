@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=EMERGING+SECURITY+ANALYST;BACKEND+DEVELOPER;CTF+PLAYER;OPEN+SOURCE+ENTHUSIAST" alt="Cyber Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=EMERGING+SECURITY+ANALYST;BACKEND+DEVELOPER;CTF+PLAYER;OPEN+SOURCE+ENTHUSIAST;WEB+SECURITY" alt="Cyber Typing SVG" />
   </a>
 </p>
 
