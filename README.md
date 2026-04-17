@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="hacker.mp4" width="400">
+  <video src="hacker.mp4" width="400" autoplay loop muted playsinline>
 </p>
