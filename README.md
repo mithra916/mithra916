@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loga Mithra</h1>
 
-![Security](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -37,22 +37,32 @@ Python based Backend Developer with a focus on cybersecurity and secure system d
 Currently learning DSA in Python and exploring network security tools like Nmap, Wireshark
 and OWASP concepts.
 ```
-## Tech Stack
+## Technical Skills
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
-</p>
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+### Systems & Security
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Core Concepts
+![OOP](https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 📫 Connect with me:
