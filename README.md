@@ -74,7 +74,5 @@
 </p>
 
 ---
+> *Focused on learning, building, and improving one step at a time.*
 
-<p align="center">
-  <video src="hacker.mp4" width="400" autoplay loop muted playsinline>
-</p>
