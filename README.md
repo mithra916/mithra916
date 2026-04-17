@@ -39,15 +39,15 @@ and OWASP concepts.
 ```
 ## Technical Skills
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,flask,fastapi,linux,bash,git" />
+# Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,flask,fastapi,linux,bash,git,github,vscode" />
 </p>
 
-<p align="center">
+# Concepts
+<p align="left">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOPS-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
