@@ -39,6 +39,8 @@
 * Building IAMpact (AI-based alert prioritization) and an API Security Scanner
 * Exploring open-source and preparing for contributions
 
+---
+
 ## Technical Skills
 
 ### Languages & Tools
@@ -53,18 +55,34 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
+---
+
 ## Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/logamithra916/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/logamithra916">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  
+
   <a href="mailto:logamithra09@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 
   <a href="https://unstop.com/u/logamit4497">
-    <img src="https://img.shields.io/badge/Unstop-100000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unstop-Profile-000000?style=for-the-badge"/>
   </a>
 </p>
+
+---
+---
+
+## ⚡
+
+<p align="center">
+  <img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+🛡️ "Building secure systems, one step at a time."
+</p>
+
