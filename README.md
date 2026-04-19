@@ -78,5 +78,10 @@
 </p>
 
 ---
+## CTF Writeups
+
+All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
+
+---
 > *Focused on learning, building, and improving one step at a time.*
 
