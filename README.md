@@ -83,5 +83,8 @@
 All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
 
 ---
+
+<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/bf2b656f-6e49-4dac-a16b-886056243a71" />
+
 > *Focused on learning, building, and improving one step at a time.*
 
