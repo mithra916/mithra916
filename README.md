@@ -89,5 +89,5 @@ All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
 </p>
 
 <p align="center">
-> *Focused on learning, building, and improving one step at a time.*
+  <b><i>Focused on learning, building, and improving one step at a time.</i></b>
 </p>
