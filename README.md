@@ -84,7 +84,9 @@ All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
 
 ---
 
-<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/bf2b656f-6e49-4dac-a16b-886056243a71" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="500">
+<br><br>
+
 
 > *Focused on learning, building, and improving one step at a time.*
 
