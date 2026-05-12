@@ -94,20 +94,16 @@ All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/mithra916/mithra916/output/github-contribution-grid-snake-dark.svg">
-      
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/mithra916/mithra916/output/github-contribution-grid-snake.svg">
-
-    <img alt="github contribution snake animation" 
-      src="https://raw.githubusercontent.com/mithra916/mithra916/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanthru26v/chanthru26v/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanthru26v/chanthru26v/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/chanthru26v/chanthru26v/output/github-contribution-grid-snake.svg">
   </picture>
-
 </p>
+
 
 <p align="center">
   <b><i>Focused on learning, building, and improving one step at a time.</i></b>
