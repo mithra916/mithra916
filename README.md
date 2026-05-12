@@ -60,10 +60,26 @@
 </p>
 
 ---
+## Github Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mithra916&theme=tokyonight&hide_border=true"/>
 </p>
+
+--- 
+## CTF Writeups
+
+All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mithra916/mithra916/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
 
 ## Connect with Me
 
@@ -73,7 +89,7 @@
   </a>
 
   <a href="mailto:logamithra09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge=gmail"/>
   </a>
 
   <a href="https://unstop.com/u/logamit4497">
@@ -82,23 +98,11 @@
 </p>
 
 ---
-## CTF Writeups
-
-All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
 </p>
 
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mithra916/mithra916/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
-<p align="center">
-  <b><i>Focused on learning, building, and improving one step at a time.</i></b>
+  <b><i>Focused on learning, building, and improving one step at a time</i></b>
 </p>
