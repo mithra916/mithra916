@@ -61,6 +61,10 @@
 
 ---
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mithra916&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## Connect with Me
 
 <p align="left">
