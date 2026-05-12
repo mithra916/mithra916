@@ -89,7 +89,7 @@ All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
   </a>
 
   <a href="mailto:logamithra09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 
   <a href="https://unstop.com/u/logamit4497">
