@@ -66,13 +66,6 @@
 <img src="https://streak-stats.demolab.com?user=mithra916&theme=tokyonight&hide_border=true"/>
 </p>
 
---- 
-## CTF Writeups
-
-All my writeups: [Read full writeup](https://medium.com/@loga2480.g)
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mithra916/mithra916/output/github-contribution-grid-snake-dark.svg" />
 </p>
