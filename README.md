@@ -29,30 +29,34 @@
   </a>
 </p>
 
-## About Me
-* Python Backend Developer focused on building scalable systems
-* Passionate about Cybersecurity and secure application design
-* Experienced in developing REST APIs with FastAPI, Flask, and Django
-* Currently strengthening problem-solving with DSA in Python
-* Currently exploring and gaining the hands-on practice with OWASP-based web security and vulnerability analysis
-* Learning network analysis using Nmap and Wireshark
-* Building IAMpact (AI-based alert prioritization) and an API Security Scanner
-* Exploring open-source and preparing for contributions
+<h2 align="center">About Me</h2>
+<div align="center">
+
+- Python Backend Developer focused on building scalable systems<br>
+- Passionate about Cybersecurity and secure application design<br>
+- Experienced in developing REST APIs with FastAPI, Flask, and Django<br>
+- Currently strengthening problem-solving with DSA in Python<br>
+- Exploring OWASP-based web security and vulnerability analysis<br>
+- Learning network analysis using Nmap and Wireshark<br>
+- Building IAMpact (AI-based alert prioritization) and an API Security Scanner<br>
+- Exploring open source and preparing for contributions
+
+</div>
 
 ---
 
-## Technical Skills
-### Languages
+
+<h2 align="center">Technical Skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-### Technologies & Tools
+<h3 align="center">Technologies & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,linux,bash,git,github,vscode" />
 </p>
 
-### Concepts
+<h3 align="center">Core Concepts</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPS-Python-blue?style=for-the-badge" />
@@ -60,7 +64,7 @@
 </p>
 
 ---
-## Github Stats
+<h2 align="center">Github Stats</h2>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mithra916&theme=tokyonight&hide_border=true"/>
