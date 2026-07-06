@@ -43,17 +43,17 @@
 
 ## Technical Skills
 ### Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Technologies & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,linux,bash,git,github,vscode" />
 </p>
 
 ### Concepts
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPS-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -74,7 +74,7 @@
 
 ## Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/logamithra916">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
