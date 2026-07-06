@@ -30,7 +30,7 @@
 </p>
 
 <h2 align="center">About Me</h2>
-<div align="justify">
+<div align="left">
 
 - Python Backend Developer focused on building scalable systems<br>
 - Passionate about Cybersecurity and secure application design<br>
