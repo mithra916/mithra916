@@ -22,7 +22,11 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 <h1 align="center">  Hi 👋, I'm Loga Mithra</h1>
-
+<p align="center">
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+<img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=EMERGING+SECURITY+ANALYST;BACKEND+DEVELOPER;CTF+PLAYER;OPEN+SOURCE+ENTHUSIAST;WEB+SECURITY" alt="Cyber Typing SVG" />
