@@ -27,11 +27,14 @@
 <img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
 <img width="64" src="https://pixelflare.cc/iain/gif/penguin-dance.gif" />  
 </p>
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=BACKEND+DEVELOPER;SOFTWARE+DEVELOPER;PYTHON+DEVELOPER;LINUX+ADMINISTRATOR;DEVOPS+ENGINEER;ASPIRING+CYBERSECURITY+ANALYST;OPEN+SOURCE+ENTHUSIASIST;CTF+PLAYER" alt="Cyber Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&height=50&lines=BACKEND+DEVELOPER;SOFTWARE+DEVELOPER;PYTHON+DEVELOPER;LINUX+ADMINISTRATOR;DEVOPS+LEARNER;ASPIRING+CYBERSECURITY+ANALYST;OPEN+SOURCE+ENTHUSIAST;CTF+PLAYER" alt="Typing SVG" />
   </a>
 </p>
+
 
 <h2 align="center">About Me</h2>
 <div align="left">
