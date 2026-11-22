@@ -29,13 +29,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=BACKEND+DEVELOPER;
-SOFTWARE+DEVELOPER;
-PYTHON+DEVELOPER;
-LINUX+ADMINISTRATOR;
-DEVOPS+LEARNER;
-CYBERSECURITY+ANALYST;
-OPEN+SOURCE+ENTHUSIASIST;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=BACKEND+DEVELOPER;SOFTWARE+DEVELOPER;PYTHON+DEVELOPER;LINUX+ADMINISTRATOR;DEVOPS+ENGINEER;ASPIRING+CYBERSECURITY+ANALYST;OPEN+SOURCE+ENTHUSIASIST;
 CTF+PLAYER" alt="Cyber Typing SVG" />
   </a>
 </p>
