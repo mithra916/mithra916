@@ -105,9 +105,6 @@
      <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/logamithra916/">
-     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 </p>
 
 ---
