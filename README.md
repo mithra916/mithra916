@@ -61,7 +61,7 @@
 
 <h4 align="center">Backend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,RESTAPI" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
 </p>
 
 <h4 align="center">Linux & DevOps</h4>
@@ -71,9 +71,9 @@
 
 <h4 align="center">Cybersecurity & Networking</h4>
 <p align="center">
-  ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 <h4 align="center">Tools & Platforms</h4>
