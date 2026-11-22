@@ -55,7 +55,7 @@
 
 <h2 align="center">Technical Skills</h2>
 <h4 align="center">Programming Languages</h3>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
@@ -67,6 +67,16 @@
 <h4 align="center">Linux & DevOps</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,git,github" />
+</p>
+
+<h4 align="center">Cybersecurity & Networking</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nmap,wireshark,owasp" />
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=VS Code,postman,mysql" />
 </p>
 
 ---
