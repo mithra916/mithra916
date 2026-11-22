@@ -36,14 +36,17 @@
 <h2 align="center">About Me</h2>
 <div align="left">
 
-- Python Backend Developer focused on building scalable systems<br>
-- Passionate about Cybersecurity and secure application design<br>
-- Experienced in developing REST APIs with FastAPI, Flask, and Django<br>
-- Currently strengthening problem-solving with DSA in Python<br>
-- Exploring OWASP-based web security and vulnerability analysis<br>
-- Learning network analysis using Nmap and Wireshark<br>
-- Building IAMpact (AI-based alert prioritization) and an API Security Scanner<br>
-- Exploring open source and preparing for contributions
+
+- Aspiring Software Developer with an interest in Backend Development and IT Infrastructure
+- Building backend applications and REST APIs using Python
+- Hands-on experience with Linux Administration, system troubleshooting, and Bash scripting
+- Exploring DevOps practices, CI/CD pipelines, and infrastructure automation
+- Passionate about Cybersecurity, application security, and vulnerability analysis
+- Currently strengthening Data Structures & Algorithms (DSA) using Java
+- Exploring networking concepts and security tools such as Nmap and Wireshark
+- Building projects focused on software development, cybersecurity, and system administration
+- Interested in open-source contributions and continuous learning
+
 
 </div>
 
