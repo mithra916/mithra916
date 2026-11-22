@@ -98,15 +98,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/logamithra916">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+   <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:logamithra09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://unstop.com/u/logamit4497">
-    <img src="https://img.shields.io/badge/Unstop-000000?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/logamithra916/">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
