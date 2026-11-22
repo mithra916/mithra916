@@ -42,7 +42,7 @@
 - Hands-on experience with Linux Administration, system troubleshooting, and Bash scripting
 - Exploring DevOps practices, CI/CD pipelines, and infrastructure automation
 - Passionate about Cybersecurity, application security, and vulnerability analysis
-- Currently strengthening Data Structures & Algorithms (DSA) using Java
+- Currently strengthening Data Structures & Algorithms (DSA) using Python
 - Exploring networking concepts and security tools such as Nmap and Wireshark
 - Building projects focused on software development, cybersecurity, and system administration
 - Interested in open-source contributions and continuous learning
