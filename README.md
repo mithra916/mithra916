@@ -54,20 +54,19 @@
 
 
 <h2 align="center">Technical Skills</h2>
-<p align="center">
+<h4 align="center">Programming Languages</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-<h3 align="center">Technologies & Tools</h3>
+<h4 align="center">Backend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,RESTAPI" />
 </p>
 
-<h3 align="center">Core Concepts</h3>
+<h4 align="center">Linux & DevOps</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOPS-Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,git,github" />
 </p>
 
 ---
