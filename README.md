@@ -69,7 +69,7 @@
 
 <h4 align="center">Linux & DevOps</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,git,github,jira" />
 </p>
 
 <h4 align="center">Cybersecurity & Networking</h4>
